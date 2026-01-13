@@ -1,0 +1,18 @@
+{
+  "name": "api-restaurant",
+  "version": "1.0.0",
+  "description": "API para gerenciar pedidos das mesas de um restaurante.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuuleoo/api-restaurant.git"
+  },
+  "keywords": [],
+  "author": "Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuuleoo/api-restaurant/issues"
+  },
+  "homepage": "https://github.com/iuuleoo/api-restaurant#readme"
+}
